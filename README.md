@@ -1,2 +1,2 @@
-#nonny_chatgpt
+# nonny_chatgpt
 - AI chatbot similar to chatgpt
